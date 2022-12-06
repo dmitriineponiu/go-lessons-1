@@ -15,7 +15,7 @@ func main() {
 	}
 
 	arguments := os.Args
-	var err error = errors.New("An error")
+	var err error = errors.New("An arror")
 	k := 1
 	var n float64
 
